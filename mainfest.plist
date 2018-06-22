@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://danzi-member.oss-cn-shenzhen.aliyuncs.com/DanZi_061501.ipa</string>
+                    <string>https://danzi-member.oss-cn-shenzhen.aliyuncs.com/DanZi.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://danzi-member.oss-cn-shenzhen.aliyuncs.com/big.png</string>
+                    <string>https://danzi-member.oss-cn-shenzhen.aliyuncs.com/big.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://danzi-member.oss-cn-shenzhen.aliyuncs.com/small.png</string>
+                    <string>https://danzi-member.oss-cn-shenzhen.aliyuncs.com/small.png</string>
                 </dict>
             </array>
             <key>metadata</key>
