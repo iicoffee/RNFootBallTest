@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://hengda-ios.oss-cn-shenzhen.aliyuncs.com/RNEvergrande.ipa</string>
+                    <string>https://danzi-member.oss-cn-shenzhen.aliyuncs.com/DanZi_061501.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://hengda-ios.oss-cn-shenzhen.aliyuncs.com/WechatIMG2891.png</string>
+                    <string>https://danzi-member.oss-cn-shenzhen.aliyuncs.com/big.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://hengda-ios.oss-cn-shenzhen.aliyuncs.com/WechatIMG2890.png</string>
+                    <string>https://danzi-member.oss-cn-shenzhen.aliyuncs.com/small.png</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -39,9 +39,9 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>测试包</string>
+                <string>测试</string>
                 <key>title</key>
-                <string>恒大淘宝足球俱乐部</string>
+                <string>DanZi</string>
             </dict>
         </dict>
     </array>
